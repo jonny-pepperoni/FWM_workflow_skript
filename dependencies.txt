@@ -1,0 +1,2 @@
+Graphical design :
+yEd graph editor 	https://www.yworks.com/products/yed/download#download
